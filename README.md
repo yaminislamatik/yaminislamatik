@@ -1,4 +1,4 @@
-![Web Application Developer](https://media.licdn.com/dms/image/D5616AQGt_gBZiOaI1A/profile-displaybackgroundimage-shrink_350_1400/0/1705081247502?e=1715212800&v=beta&t=HIpeJWaX-E7ZuSGKM3YM0xdwdxiDuuatPo7BXpUZ9Zo)
+![](https://scontent.fjsr11-1.fna.fbcdn.net/v/t39.30808-6/294881281_113248121457150_8501140850656810322_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=783fdb&_nc_eui2=AeEjNBl41QA3izY71x6aSX_DiDTldLp98J-INOV0un3wn2DHv_XY58FwWlNX5R0Y_ZZDBME_EfWNeiDq9HXCcsdy&_nc_ohc=8cPgknVAcugAX-rcxeQ&_nc_ht=scontent.fjsr11-1.fna&oh=00_AfD6jZsHesT52M1yshMK_xR4TbDMczxDXQsDTG7PNDsNTA&oe=65E89E06)
 # Hi there 👋, I'm Yamin Islam Atik
 ## Web Application Developer
 
@@ -26,7 +26,7 @@ Skills: HTML / CSS /  REACT / JS / Node Js / Express Js
 
 
 ## 🌐 Socials:
-#[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/yaminislamatik) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/yaminislamatik) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yaminislamatik) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/yaminislamatik) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@yaminislamatikyt)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/yaminislamatik) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/yaminislamatik) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yaminislamatik) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/yaminislamatik) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@yaminislamatikyt)
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
