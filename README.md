@@ -1,6 +1,7 @@
-# Hi There 👋, I'm Yamin Islam Atik
-#### I am GitHub Readme Generator's creator
 ![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/D5616AQGt_gBZiOaI1A/profile-displaybackgroundimage-shrink_350_1400/0/1705081247502?e=1715212800&v=beta&t=HIpeJWaX-E7ZuSGKM3YM0xdwdxiDuuatPo7BXpUZ9Zo)
+# Hi There 👋, I'm Yamin Islam Atik
+## Web Developer
+
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
