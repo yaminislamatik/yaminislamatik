@@ -1,9 +1,19 @@
-![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/D5616AQGt_gBZiOaI1A/profile-displaybackgroundimage-shrink_350_1400/0/1705081247502?e=1715212800&v=beta&t=HIpeJWaX-E7ZuSGKM3YM0xdwdxiDuuatPo7BXpUZ9Zo)
-# Hi There 👋, I'm Yamin Islam Atik
-## Web Developer
+(https://media.licdn.com/dms/image/D5616AQGt_gBZiOaI1A/profile-displaybackgroundimage-shrink_350_1400/0/1705081247502?e=1715212800&v=beta&t=HIpeJWaX-E7ZuSGKM3YM0xdwdxiDuuatPo7BXpUZ9Zo)
+# Hi there 👋, I'm Yamin Islam Atik
+## Web Application Developer
+![Web Application Developer]
 
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+freelanceryamin.jpg
+Who is Yamin?
+
+My names is Yamin Islam Atik.Over the last 4+ years, I have also worked as a Web & WordPress Developer. I have extensive experience in the following areas: HTML, CSS, JavaScript, Jquery, Bootstrap, PHP, WordPress, WordPress Theme Customization, WordPress Theme Development, Adobe Premiere Pro, Adobe Photoshop, Adobe Illustrator, Video Editing, Motion Graphics, Graphics Design, etc.
+
+I have been working on offline marketplace platforms like Facebook, Instagram, linkedin etc. for more than four years.
+
+By the grace of Allah, I have worked for many clients but opened new accounts in marketplaces like Freelancer, Fiverr, Upwork, PeoplePerHour, Guru, etc. My experience is very high level. I hope I can do any of your work very easily and quickly. You can trust me.
+
+Note:- I try to deliver projects timely. This is why I think my Skills are ideal for your project.
 
 Skills: HTML / CSS /  REACT / JS / Node Js / Express Js
 
@@ -18,7 +28,7 @@ Skills: HTML / CSS /  REACT / JS / Node Js / Express Js
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaminislamatik)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yaminislamatik)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=yaminislamatik)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaminislamatik)](https://github.com/anuraghazra/github-readme-stats)
 
