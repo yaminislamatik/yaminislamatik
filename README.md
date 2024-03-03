@@ -1,10 +1,8 @@
-(https://media.licdn.com/dms/image/D5616AQGt_gBZiOaI1A/profile-displaybackgroundimage-shrink_350_1400/0/1705081247502?e=1715212800&v=beta&t=HIpeJWaX-E7ZuSGKM3YM0xdwdxiDuuatPo7BXpUZ9Zo)
+![Web Application Developer](https://media.licdn.com/dms/image/D5616AQGt_gBZiOaI1A/profile-displaybackgroundimage-shrink_350_1400/0/1705081247502?e=1715212800&v=beta&t=HIpeJWaX-E7ZuSGKM3YM0xdwdxiDuuatPo7BXpUZ9Zo)
+
 # Hi there 👋, I'm Yamin Islam Atik
 ## Web Application Developer
-![Web Application Developer]
 
-
-freelanceryamin.jpg
 Who is Yamin?
 
 My names is Yamin Islam Atik.Over the last 4+ years, I have also worked as a Web & WordPress Developer. I have extensive experience in the following areas: HTML, CSS, JavaScript, Jquery, Bootstrap, PHP, WordPress, WordPress Theme Customization, WordPress Theme Development, Adobe Premiere Pro, Adobe Photoshop, Adobe Illustrator, Video Editing, Motion Graphics, Graphics Design, etc.
