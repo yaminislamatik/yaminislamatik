@@ -3,22 +3,20 @@
 ## Web Designer | WordPress & Elementor Designer | SEO Expert
 
 
-Who is Yamin?
+My names is Yamin Islam Atik.Over the last 3+ years, I have also worked as a Web Designer & SEO Expert. I have extensive experience in the following areas: HTML, CSS, Bootstrap,JavaScript, Jquery, WordPress, WordPress Theme Customization, Elementor , Adobe Premiere Pro, Adobe Photoshop, Adobe Illustrator, Video Editing, Graphics Design.
 
-My names is Yamin Islam Atik.Over the last 4+ years, I have also worked as a Web & WordPress Developer. I have extensive experience in the following areas: HTML, CSS, JavaScript, Jquery, Bootstrap, PHP, WordPress, WordPress Theme Customization, WordPress Theme Development, Adobe Premiere Pro, Adobe Photoshop, Adobe Illustrator, Video Editing, Motion Graphics, Graphics Design, etc.
-
-I have been working on offline marketplace platforms like Facebook, Instagram, linkedin etc. for more than four years.
+I have been working on offline marketplace platforms like Facebook, Instagram, linkedin etc. for more than three years.
 
 By the grace of Allah, I have worked for many clients but opened new accounts in marketplaces like Freelancer, Fiverr, Upwork, PeoplePerHour, Guru, etc. My experience is very high level. I hope I can do any of your work very easily and quickly. You can trust me.
 
-Note:- I try to deliver projects timely. This is why I think my Skills are ideal for your project.
+Note:- I try to deliver projects timely. This is why I think my Skills are ideal for your project. 
 
-Skills: HTML / CSS / Bootstrap / REACT / JS / Jquery / Node Js / Express Js
+Skills: HTML / CSS / Bootstrap / JS / Jquery 
 
-- 🔭 I’m currently working on Web Application 
+- 🔭 I’m currently working on Web & Wordpress Design
 - 🌱 I’m currently learning JavaScrip,Node Js, Express js 
 - 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about Web Development 
+- 💬 Ask me about Web Design
 - 📫 How to reach me: yaminislamatik346@gmail.com
 
 # 👨‍💻 Skills & Experiance: :
